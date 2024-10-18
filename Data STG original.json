@@ -20272,26 +20272,6 @@
       "Percentage":0,
       "DataJson":[
          {
-            "CreditNumber":"2f015d85-1309-c3d5-93a3-08d88417ec29",
-            "Fee":559311,
-            "Balance":559311,
-            "Charge":260432,
-            "ArrearsDays":1243
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"43921520",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T14:57:00",
-      "StartDate":"2024-08-01T14:57:00",
-      "Percentage":0,
-      "DataJson":[
-         {
             "CreditNumber":"3fc14a55-1023-cb7a-4025-08d89c9dd25b",
             "Fee":637945,
             "Balance":637945,
@@ -20317,66 +20297,6 @@
             "Balance":471085,
             "Charge":227036,
             "ArrearsDays":1206
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"1002725944",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T14:58:00",
-      "StartDate":"2024-08-01T14:58:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"4b7cd3de-6d29-c952-60fa-08db1b2fbe65",
-            "Fee":158221,
-            "Balance":158221,
-            "Charge":44826,
-            "ArrearsDays":476
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"30278684",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T14:59:00",
-      "StartDate":"2024-08-01T14:59:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"3bccb440-2209-cda1-1031-08d87c4add96",
-            "Fee":94196,
-            "Balance":94196,
-            "Charge":48955,
-            "ArrearsDays":1284
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"30278684",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T14:59:00",
-      "StartDate":"2024-08-01T14:59:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"129046d1-afd8-c532-a930-08d8ac0ded71",
-            "Fee":1453359,
-            "Balance":1453359,
-            "Charge":690551,
-            "ArrearsDays":1253
          }
       ],
       "Observation":"Pruebas performance json generado",
@@ -20437,26 +20357,6 @@
             "Balance":268157,
             "Charge":135043,
             "ArrearsDays":1246
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"1113660701",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:02:00",
-      "StartDate":"2024-08-01T15:02:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"2e57f3b8-9c12-cdfc-f795-08d8ac4e50ec",
-            "Fee":155123,
-            "Balance":155123,
-            "Charge":77924,
-            "ArrearsDays":1223
          }
       ],
       "Observation":"Pruebas performance json generado",
@@ -20643,46 +20543,6 @@
       "ManagementCompromiseCode":2
    },
    {
-      "Ident":"1073692382",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:07:00",
-      "StartDate":"2024-08-01T15:07:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"4bca847b-6042-cb0b-0164-08d8b42cc180",
-            "Fee":695191,
-            "Balance":695191,
-            "Charge":344342,
-            "ArrearsDays":1243
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"66872638",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:08:00",
-      "StartDate":"2024-08-01T15:08:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"e39fbb8f-66dc-cbca-d848-08d8a90796f1",
-            "Fee":994522,
-            "Balance":994522,
-            "Charge":484797,
-            "ArrearsDays":1226
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
       "Ident":"50993831",
       "TypeDocument":"CC",
       "Frecuency":"MENSUAL",
@@ -20737,26 +20597,6 @@
             "Balance":446290,
             "Charge":207481,
             "ArrearsDays":1236
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"29738961",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:10:00",
-      "StartDate":"2024-08-01T15:10:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"8a9b1d01-79b6-ca6c-5883-08d8c7d42804",
-            "Fee":367012,
-            "Balance":367012,
-            "Charge":179931,
-            "ArrearsDays":1221
          }
       ],
       "Observation":"Pruebas performance json generado",
@@ -20843,106 +20683,6 @@
       "ManagementCompromiseCode":2
    },
    {
-      "Ident":"1032444603",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:14:00",
-      "StartDate":"2024-08-01T15:14:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"ead8a7e8-8011-cd83-8a26-08d8ba7164ed",
-            "Fee":69660,
-            "Balance":69660,
-            "Charge":35490,
-            "ArrearsDays":1235
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"71279756",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:17:00",
-      "StartDate":"2024-08-01T15:17:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"fd6b94d2-9289-cf3b-29f3-08d8b104f6a7",
-            "Fee":1933752,
-            "Balance":1933752,
-            "Charge":916446,
-            "ArrearsDays":1247
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"71279756",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:17:00",
-      "StartDate":"2024-08-01T15:17:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"c5321a6b-4d58-c563-7c46-08d87b954347",
-            "Fee":3629495,
-            "Balance":3629495,
-            "Charge":1453853,
-            "ArrearsDays":1223
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"1007959027",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:18:00",
-      "StartDate":"2024-08-01T15:18:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"43d36803-df63-cb9d-b27f-08d89490fc9f",
-            "Fee":925604,
-            "Balance":925604,
-            "Charge":445832,
-            "ArrearsDays":1253
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"1007959027",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:18:00",
-      "StartDate":"2024-08-01T15:18:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"9b6ce722-6455-c5d9-c591-08d89ef7a5e9",
-            "Fee":202947,
-            "Balance":202947,
-            "Charge":97001,
-            "ArrearsDays":1239
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
       "Ident":"66710599",
       "TypeDocument":"CC",
       "Frecuency":"MENSUAL",
@@ -20977,66 +20717,6 @@
             "Balance":73953,
             "Charge":38170,
             "ArrearsDays":1254
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"31157524",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:20:00",
-      "StartDate":"2024-08-01T15:20:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"438b2c9a-902c-c8bb-ea83-08d87b6e93f5",
-            "Fee":475042,
-            "Balance":475042,
-            "Charge":215284,
-            "ArrearsDays":1254
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"31157524",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:20:00",
-      "StartDate":"2024-08-01T15:20:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"d372d05c-5b98-c618-c243-08d8800e731b",
-            "Fee":600298,
-            "Balance":600298,
-            "Charge":267335,
-            "ArrearsDays":1248
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"31157524",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:20:00",
-      "StartDate":"2024-08-01T15:20:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"455cf783-a17e-c023-8c34-08d8a826d05e",
-            "Fee":140888,
-            "Balance":140888,
-            "Charge":71053,
-            "ArrearsDays":1227
          }
       ],
       "Observation":"Pruebas performance json generado",
@@ -21203,26 +20883,6 @@
       "ManagementCompromiseCode":2
    },
    {
-      "Ident":"1087986220",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:27:00",
-      "StartDate":"2024-08-01T15:27:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"1862f136-a0ba-c70a-d3b0-08d8a6d60e52",
-            "Fee":1095695,
-            "Balance":1095695,
-            "Charge":533726,
-            "ArrearsDays":1229
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
       "Ident":"1094929800",
       "TypeDocument":"CC",
       "Frecuency":"MENSUAL",
@@ -21257,66 +20917,6 @@
             "Balance":261184,
             "Charge":130235,
             "ArrearsDays":1233
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"1094929800",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:28:00",
-      "StartDate":"2024-08-01T15:28:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"47f2ff32-982e-c60f-d2ba-08d8a488d941",
-            "Fee":322187,
-            "Balance":322187,
-            "Charge":159341,
-            "ArrearsDays":1232
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"1094929800",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:28:00",
-      "StartDate":"2024-08-01T15:28:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"ea02ef06-225d-c959-94c1-08d8a4816081",
-            "Fee":475290,
-            "Balance":475290,
-            "Charge":229803,
-            "ArrearsDays":1232
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"1094929800",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:28:00",
-      "StartDate":"2024-08-01T15:28:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"d74acc1d-111f-c467-b59c-08d8a47aa2bf",
-            "Fee":386023,
-            "Balance":386023,
-            "Charge":188779,
-            "ArrearsDays":1232
          }
       ],
       "Observation":"Pruebas performance json generado",
@@ -21463,46 +21063,6 @@
       "ManagementCompromiseCode":2
    },
    {
-      "Ident":"1094929800",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:28:00",
-      "StartDate":"2024-08-01T15:28:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"2e95cbc5-83d2-c131-2a76-08d8affb835a",
-            "Fee":445700,
-            "Balance":445700,
-            "Charge":213352,
-            "ArrearsDays":1220
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"1094929800",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:28:00",
-      "StartDate":"2024-08-01T15:28:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"54180233-620d-c3b2-2e1a-08d8b9997ca3",
-            "Fee":1000504,
-            "Balance":1000504,
-            "Charge":471264,
-            "ArrearsDays":1208
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
       "Ident":"32318817",
       "TypeDocument":"CC",
       "Frecuency":"MENSUAL",
@@ -21522,46 +21082,7 @@
       "Observation":"Pruebas performance json generado",
       "ManagementCompromiseCode":2
    },
-   {
-      "Ident":"32318817",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:32:00",
-      "StartDate":"2024-08-01T15:32:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"e5bec30e-3dd7-cfef-1ff1-08d8c6e44c20",
-            "Fee":161095,
-            "Balance":161095,
-            "Charge":80773,
-            "ArrearsDays":1222
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"32318817",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:32:00",
-      "StartDate":"2024-08-01T15:32:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"30e355dc-8a6e-c9f8-4e16-08d8c24e4eed",
-            "Fee":206923,
-            "Balance":206923,
-            "Charge":100538,
-            "ArrearsDays":1197
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
+
    {
       "Ident":"41870149",
       "TypeDocument":"CC",
@@ -21623,26 +21144,6 @@
       "ManagementCompromiseCode":2
    },
    {
-      "Ident":"41870149",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:33:00",
-      "StartDate":"2024-08-01T15:33:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"79475489-9282-cafb-b8a8-08d897a3020d",
-            "Fee":505846,
-            "Balance":505846,
-            "Charge":246040,
-            "ArrearsDays":1248
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
       "Ident":"39665622",
       "TypeDocument":"CC",
       "Frecuency":"MENSUAL",
@@ -21692,71 +21193,11 @@
       "Percentage":0,
       "DataJson":[
          {
-            "CreditNumber":"0835729c-2e5b-c4bb-11c4-08d8bfc3decb",
-            "Fee":344735,
-            "Balance":344735,
-            "Charge":167766,
-            "ArrearsDays":1228
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"39665622",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:34:00",
-      "StartDate":"2024-08-01T15:34:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"6489486f-a66d-c2e0-b89b-08d8c5319147",
-            "Fee":505201,
-            "Balance":505201,
-            "Charge":247984,
-            "ArrearsDays":1223
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"39665622",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:34:00",
-      "StartDate":"2024-08-01T15:34:00",
-      "Percentage":0,
-      "DataJson":[
-         {
             "CreditNumber":"7eec5b19-9c59-c224-9c6a-08d8c7c3a2ae",
             "Fee":719018,
             "Balance":719018,
             "Charge":344477,
             "ArrearsDays":1221
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"1128429239",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:35:00",
-      "StartDate":"2024-08-01T15:35:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"27691841-d1ed-c06c-3650-08d8adabdacf",
-            "Fee":970266,
-            "Balance":970266,
-            "Charge":468284,
-            "ArrearsDays":1254
          }
       ],
       "Observation":"Pruebas performance json generado",
@@ -22012,26 +21453,6 @@
       "Percentage":0,
       "DataJson":[
          {
-            "CreditNumber":"5d5fe903-fcdb-c1ca-46d6-08d8b102787d",
-            "Fee":1274040,
-            "Balance":1274040,
-            "Charge":625154,
-            "ArrearsDays":1247
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"52096274",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:37:00",
-      "StartDate":"2024-08-01T15:37:00",
-      "Percentage":0,
-      "DataJson":[
-         {
             "CreditNumber":"72a504ec-d7fd-c6a5-8c84-08d882b18594",
             "Fee":259108,
             "Balance":259108,
@@ -22157,26 +21578,6 @@
             "Balance":146777,
             "Charge":75134,
             "ArrearsDays":1247
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"1006198965",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T15:39:00",
-      "StartDate":"2024-08-01T15:39:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"b9ded294-d928-c0f1-5740-08d8a12c10ef",
-            "Fee":129609,
-            "Balance":129609,
-            "Charge":59784,
-            "ArrearsDays":1236
          }
       ],
       "Observation":"Pruebas performance json generado",
@@ -22423,26 +21824,6 @@
       "ManagementCompromiseCode":2
    },
    {
-      "Ident":"88266178",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T16:05:00",
-      "StartDate":"2024-08-01T16:05:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"a3030f71-84fb-c185-f65a-08d8bf029e52",
-            "Fee":506856,
-            "Balance":506856,
-            "Charge":249567,
-            "ArrearsDays":1229
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
       "Ident":"1085272841",
       "TypeDocument":"CC",
       "Frecuency":"MENSUAL",
@@ -22457,46 +21838,6 @@
             "Balance":207654,
             "Charge":105445,
             "ArrearsDays":1251
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"1085272841",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T16:08:00",
-      "StartDate":"2024-08-01T16:08:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"b36bcdbc-fdf6-c7c3-dcb7-08d89a24e7ba",
-            "Fee":503923,
-            "Balance":503923,
-            "Charge":239629,
-            "ArrearsDays":1245
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"1085272841",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T16:08:00",
-      "StartDate":"2024-08-01T16:08:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"7a460296-456c-c2e2-e884-08d88efdc0eb",
-            "Fee":427910,
-            "Balance":427910,
-            "Charge":198953,
-            "ArrearsDays":1229
          }
       ],
       "Observation":"Pruebas performance json generado",
@@ -22577,26 +21918,6 @@
             "Balance":490010,
             "Charge":226758,
             "ArrearsDays":1169
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"11801465",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T16:10:00",
-      "StartDate":"2024-08-01T16:10:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"fc557ce3-608b-ca77-c661-08d8be1d29bd",
-            "Fee":345023,
-            "Balance":345023,
-            "Charge":168054,
-            "ArrearsDays":1230
          }
       ],
       "Observation":"Pruebas performance json generado",
@@ -22717,26 +22038,6 @@
             "Balance":1058026,
             "Charge":528291,
             "ArrearsDays":1237
-         }
-      ],
-      "Observation":"Pruebas performance json generado",
-      "ManagementCompromiseCode":2
-   },
-   {
-      "Ident":"32208949",
-      "TypeDocument":"CC",
-      "Frecuency":"MENSUAL",
-      "TotalFees":1,
-      "CreateDate":"2024-08-01T16:16:00",
-      "StartDate":"2024-08-01T16:16:00",
-      "Percentage":0,
-      "DataJson":[
-         {
-            "CreditNumber":"a6687572-43f6-cfd8-704a-08d86d826ea9",
-            "Fee":751768,
-            "Balance":751768,
-            "Charge":385716,
-            "ArrearsDays":1333
          }
       ],
       "Observation":"Pruebas performance json generado",
